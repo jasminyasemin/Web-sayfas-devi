@@ -14,6 +14,7 @@
 *`<style>`etiketiyle css kullanılmıştır.*
 ## Düzen
 *`<section>,<div>`etiketleri ile bölümler oluşturulmuştur.*
+## Ekran Görüntüleri
 ![Ekran Görüntüsü 1](images/Screenshot%202025-01-30%20at%2023.49.19.png)  
 ![Ekran Görüntüsü 2](images/Screenshot%202025-01-30%20at%2023.49.55.png)
 
